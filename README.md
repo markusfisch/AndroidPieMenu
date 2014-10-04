@@ -12,7 +12,7 @@ Minnimum SDK version 4.
 
 ![Screenshot](http://markusfisch.github.io/AndroidPieMenu/screenshot.png)
 
-See PieMenuSample for a sample implementation.
+See sample branch and directory for a sample implementation.
 
 License
 -------
